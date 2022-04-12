@@ -1,0 +1,8 @@
+#Intro Animation
+loading_animation
+
+# Ignore Mac system files
+.DS_store
+
+#VS Code Files
+.vscode/
